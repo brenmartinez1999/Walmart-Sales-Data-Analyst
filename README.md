@@ -15,3 +15,5 @@ Walmart sales analyst 2010-2012 focusing in unemployment and fuel price impact
 ![Slide 1 - Cover](Images/Slide_11.png)
 ![Slide 1 - Cover](Images/Slide_12.png)
 ![Slide 1 - Cover](Images/Slide_13.png)
+
+You can download all the documents here [Documents](https://github.com/brenmartinez1999/Walmart-Sales-Data-Analyst/tree/main/Data)
